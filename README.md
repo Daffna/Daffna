@@ -26,7 +26,7 @@
 <a href="https://github.com/Daffna" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://t.me/Daffynka">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="79" height="79" alt="Telegram">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644](https://artemtoto.ru/wp-content/uploads/2022/05/og_og_1511349620299615455.jpg)" width="79" height="79" alt="Telegram">
 </a>  
 </div>  
   
