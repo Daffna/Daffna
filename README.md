@@ -18,22 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
@@ -63,7 +48,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Daffna&&style=flat-square" align="center" />
 </div>  
   
 
@@ -72,5 +57,4 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
